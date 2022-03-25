@@ -1,6 +1,5 @@
-# IADE UE - Programação em Design 2021/2022<!-- omit in toc -->
+# IADE UE - Projeto de Programação em Design 2021/2022<!-- omit in toc -->
 
-<span style="font-size: 30px">Projeto<span/>
 - [Objetivos](#objetivos)
   - [Objetivos extra](#objetivos-extra)
 - [Tarefas](#tarefas)
@@ -25,12 +24,12 @@ Pretende-se a construção de um *site* sobre um evento, com os seguintes requis
   - Festival de música com vários palcos;
   - Roteiro gastronómico envolvendo vários restaurantes;
   - Prova desportiva com várias etapas.
-- O *site deve envolver um **mínimo de 3 páginas HTML**;
+- O *site* deve envolver um **mínimo de 3 páginas HTML**;
   - Uma página deve conter os créditos, i.e., quem realizou o trabalho, e qual foi a distribuição de tarefas.
 - Todos os elementos de todas as páginas devem ter estilos aplicados;
 - Todas as páginas devem incluir imagens;
 - Deve existir pelo menos uma tabela no *site*;
-- Deve existir comportamento dinâmico codificado em Javascript.
+- Deve existir comportamento dinâmico codificado em JavaScript.
   - Pelo menos um evento do rato;
   - Pelo menos um evento do teclado.
 
@@ -63,7 +62,7 @@ Deve ser entregue uma proposta não funcional do site. Esta proposta inclui uma 
 - Imagens de protótipo para todas as páginas consideradas no site;
 - Descrição de hiperligações a incluir, tanto entre páginas do site, como para páginas externas;
 - Descrição de funcionalidade dinâmica a incluir (a implementar em JavaScript);
-- Descrição de *assets* (i.e., imagens, fontes, CSS, JavaScript, etc.) externos a incluir, as respetivas referências.
+- Descrição de *assets* (i.e., imagens, fontes, CSS, JavaScript, etc.) externos a incluir, com as respetivas referências.
 
 A proposta deve ser entregue num documento no formato `pdf`.
 
